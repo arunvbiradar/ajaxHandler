@@ -1,5 +1,5 @@
 # AjaxHandler
-[Deployed to](https://arunvbiradar.github.io/ajaxHandler/)
+[Deployed here](https://arunvbiradar.github.io/ajaxHandler/)
 
 ## Overview
 
